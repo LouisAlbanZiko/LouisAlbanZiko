@@ -7,7 +7,7 @@
 Depth First Search algorithm for solving mazes with a [demo](https://petheprogrammer.github.io/maze_solver/index.html)
 ![maze_solver_gif](./res/MazeSolver.gif)
 
-- [Desktop Background Simulation]()
+- [Desktop Background Simulation](https://github.com/peTheProgrammer/desktop_sim)
 
 A [verlet physics](https://en.wikipedia.org/wiki/Verlet_integration) simulation which gets displayed on the desktop background.
 ![background_verlet](./res/BackgroundVerlet.gif)
