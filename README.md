@@ -15,6 +15,7 @@ A clone of Pong I made in highschool.
 - [Sudoku Solver](https://github.com/LouisAlbanZiko/Sudoku)
 
 A command line program which can solve sudoku using brute force.
+
 ![sudoku_gif](./res/SudokuSolver.gif)
 
 - [Maze Solver](https://github.com/LouisAlbanZiko/maze_solver)
